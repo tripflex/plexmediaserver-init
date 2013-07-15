@@ -1,5 +1,7 @@
 # Plex Media Server INIT Script
 
+http://smyl.es/the-ultimate-nas-media-center-with-debian-based-openmediavault-and-plex-media-server/
+
 This is the init script for Plex Media Server that should be located at /etc/init.d/plexmediaserver.   This is something I had to track down when setting up Plex Media Server with OpenMediaVault, as the default installer for PlexMediaServer seems to have a problem with creating the init script, so I had to manually add it.
 
 ## Installation
